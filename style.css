@@ -673,6 +673,7 @@ footer #footer-text p a{
     }
 
     #hamburguer-open{
+        font-size: 5rem;
         display: block;
     }
 
@@ -689,9 +690,6 @@ footer #footer-text p a{
         background-color: rgb(215, 215, 215);
     }
 
-    #hamburguer-open{
-        font-size: 3rem;
-    }
 
     header .header-logo{
         width: fit-content;
@@ -737,7 +735,7 @@ footer #footer-text p a{
     
     .mobile-header-menu li{
         width: 100%;
-        padding: 1rem 0;
+        padding: 4rem 0;
         margin: 0 1.5rem;
         list-style: none;
         border-bottom: 2px solid rgba(0, 0, 0, 0.05);
@@ -748,7 +746,7 @@ footer #footer-text p a{
     }
     .mobile-header-menu a{
         color: black;
-        font-size: 1.8rem;
+        font-size: 2.4rem;
         text-decoration: none;
         font-family: 'Gotham-Light';
     }
