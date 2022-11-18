@@ -132,11 +132,11 @@ main .to-top-button{
     position: fixed;
     right: 3rem;
     bottom: 3rem;
-    padding: 2rem;
+    padding: 1rem;
     border-radius: 20%;
     z-index: 12;
     color: #fff;
-    font-size: 3rem;
+    font-size: 2rem;
     background-color: rgb(53, 52, 52);
 }
 
@@ -751,7 +751,11 @@ footer #footer-text p a{
         font-family: 'Gotham-Light';
     }
 
-
+    main .to-top-button{
+        padding: 2rem;
+        font-size: 2rem;
+        background-color: rgb(53, 52, 52);
+    }
     
     /* header .mobile-header-menu #mobile_menu_icon{
         position: absolute;
