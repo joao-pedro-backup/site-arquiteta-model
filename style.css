@@ -132,7 +132,7 @@ main .to-top-button{
     position: fixed;
     right: 3rem;
     bottom: 3rem;
-    padding: 3rem;
+    padding: 2rem;
     border-radius: 20%;
     z-index: 12;
     color: #fff;
